@@ -1,4 +1,4 @@
-# Workout Buddy — MERN Stack (with JWT Auth)
+# Workout Buddy — MERN Stack (with JWT Auth) BY SAMYM MOHIBBY
 
 Simple workout tracking app (MERN). Backend provides REST API with JWT authentication. Frontend is a React SPA.
 
